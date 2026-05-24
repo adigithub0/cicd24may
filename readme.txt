@@ -15,3 +15,6 @@ git log --oneline
 git add etl.py
 git commit -m "initial commit"
 git status
+
+git add .
+git commit -m "initial commit"

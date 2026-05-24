@@ -3,6 +3,8 @@ def extract():
 
 def transform():
     print("Transforming data")
+    print("Removing null values")
+    print("Applying business rules")
 
 def load():
     print("Loading data")
