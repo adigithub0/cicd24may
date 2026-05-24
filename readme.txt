@@ -18,3 +18,8 @@ git status
 
 git add .
 git commit -m "initial commit"
+git log --oneline. #Check Commit History
+
+#Switch Back to Main Branch:
+git checkout main
+git branch
